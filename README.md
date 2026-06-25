@@ -1,7 +1,8 @@
 Intern Details
 Intern ID: CITS4458
 Full Name: Subasakthi Mohanraj
-No. of Weeks: 4 Weeks# To-Do List Application (Tkinter GUI)
+No. of Weeks: 4 Weeks
+# To-Do List Application (Tkinter GUI)
 
 ## Overview
 This is a simple To-Do List application built using Python and Tkinter.
@@ -35,10 +36,6 @@ TO-DO-LIST-Tkinter
 ├── main.py
 ├── README.md
 └── screenshots
-
-## Screenshot
-
-(Add screenshot here after uploading to GitHub)
 
 ## Author
 
